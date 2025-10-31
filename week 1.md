@@ -15,4 +15,4 @@
 - Native applications are software pre-installed on a device and can be used offline, while web applications are accessed through a web browser.
 
 ## Career/Employability/Learning Insights
-    After completing the initial design, I also explored some innovative page designs, which gave me a lot of inspiration. Although my study time this week was limited, the weekly summary helped me effectively identify the next steps and plan for the following week.
+After completing the initial design, I also explored some innovative page designs, which gave me a lot of inspiration. Although my study time this week was limited, the weekly summary helped me effectively identify the next steps and plan for the following week.
