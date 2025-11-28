@@ -1,5 +1,5 @@
 # 23 / Nov / 2025
-## Week 7 - PHP Programming
+## Week 9 - CSS pre-processing with Sass
 ## Learning Activities & Resources
 This week, I studied the basics of Sass (Syntactically Awesome Style Sheets) through a LinkedIn Learning course, focusing on installation, setup, and introductory features of the language.
 

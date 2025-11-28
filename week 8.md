@@ -1,5 +1,5 @@
 # 16 / Nov / 2025
-## Week 7 - PHP Programming
+## Week 8 - WordPress: Developing Custom Themes
 ## Learning Activities & Resources
 This week, I conducted a learning experiment using the scientific method, and I also continued studying WordPress theme development and DRY (Don't Repeat Yourself) principles
 
